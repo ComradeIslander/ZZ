@@ -20,7 +20,7 @@ of swings of a given period. __NOT STARTED__
 6. Include an input for start date and end date. __IN PROGRESS__
 
 
-Classes:
+## Classes:
 
   CustomCoordinate- subclass of Coordinate class.
 
