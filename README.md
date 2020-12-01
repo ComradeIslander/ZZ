@@ -27,3 +27,5 @@ of swings of a given period. __NOT STARTED__
   FibonacciLucas- where the idea/code for making a starting date point comes from.
 
   CustomZigZag- main class where work will be done.
+  
+  strings.properties- Text document with headings for functional use in MW
