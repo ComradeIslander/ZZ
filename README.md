@@ -18,3 +18,12 @@ of swings of a given period. __NOT STARTED__
 ~~5. For this process to run in real-time.~~ __DONE__
 
 6. Include an input for start date and end date. __IN PROGRESS__
+
+
+Classes:
+
+  CustomCoordinate- subclass of Coordinate class.
+
+  FibonacciLucas- where the idea/code for making a starting date point comes from.
+
+  CustomZigZag- main class where work will be done.
